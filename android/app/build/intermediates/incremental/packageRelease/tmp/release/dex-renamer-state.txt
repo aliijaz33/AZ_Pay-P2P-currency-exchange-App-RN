@@ -1,0 +1,4 @@
+#Wed Apr 03 22:09:02 PKT 2024
+base.0=/Users/macbook/React_Native/GitHub/AZ-Pay/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

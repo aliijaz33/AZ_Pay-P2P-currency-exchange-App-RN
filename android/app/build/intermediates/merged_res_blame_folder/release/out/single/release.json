@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_main_settinglogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_main_settinglogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_dashboard_menulogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_dashboard_menulogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_depositwithdraw_deposit_button.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_depositwithdraw_deposit_button.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_backarrow.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_backarrow.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_exchange_downarrow.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_exchange_downarrow.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_apple_logo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_apple_logo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_search.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_search.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_sendbutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_sendbutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currencylogos_eur.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currencylogos_eur.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_line.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_line.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_login_button.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_login_button.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_homelogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_homelogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_backarrowmain.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_backarrowmain.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_dashboard_buttonlogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_dashboard_buttonlogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_dropdowndown.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_dropdowndown.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currencylogos_cny.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currencylogos_cny.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_closearrow.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_closearrow.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_p2p_currencybg.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_p2p_currencybg.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_dashboard_dashboardbg.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_dashboard_dashboardbg.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_exchangelogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_exchangelogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_logoutlogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_logoutlogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_welcome.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_welcome.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_depoitandwithdraw_confirmbutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_depoitandwithdraw_confirmbutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_p2p_sellbutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_p2p_sellbutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_copybutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_copybutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_p2p_buybutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_p2p_buybutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currencylogos_usd.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currencylogos_usd.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_inr.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_inr.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_p2plogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_p2plogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_signup_button_main.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_signup_button_main.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_exchange_exchangearrow.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_exchange_exchangearrow.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_signup_button_side.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_signup_button_side.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_pkr.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_pkr.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_chevron.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_chevron.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_dashboard_balanceback.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_dashboard_balanceback.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_google_logo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_google_logo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_us.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_us.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.fintech.app-main-29:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_tick.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_tick.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_main_defaultbackground.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_main_defaultbackground.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currency_pkr.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currency_pkr.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currencylogos_pkr.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currencylogos_pkr.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_check.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_check.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_depositwithdraw_withdraw_button.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_depositwithdraw_withdraw_button.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_back_arrow.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_back_arrow.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currency_inr.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currency_inr.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_depoitandwithdraw_withdrawtickwithcaption.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_depoitandwithdraw_withdrawtickwithcaption.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_dashboard_dashboardlogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_dashboard_dashboardlogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_main_chatbot.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_main_chatbot.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_depoitandwithdraw_nextbutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_depoitandwithdraw_nextbutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_main_profilelogo.jpeg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_main_profilelogo.jpeg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_send.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_send.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_receivebutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_receivebutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_side_line.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_side_line.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_exchange_exchangebutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_exchange_exchangebutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currency_us.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currency_us.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_line.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_line.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_depositlogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_depositlogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_currencylogos_inr.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_currencylogos_inr.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_transferlogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_transferlogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_transfer_sharebutton.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_transfer_sharebutton.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_logos_azpay_logo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_logos_azpay_logo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_box.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_box.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_menu_historylogo.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_menu_historylogo.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_loginsignup_background_with_border.jpg.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_loginsignup_background_with_border.jpg"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_node_modules_reactnativedropdownselectlist_assets_images_close.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/node_modules_reactnativedropdownselectlist_assets_images_close.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/drawable-mdpi_src_assets_exchange_uparrow.png.flat",
+        "source": "com.fintech.app-react-23:/drawable-mdpi/src_assets_exchange_uparrow.png"
+    },
+    {
+        "merged": "com.fintech.app-merged_res-28:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fintech.app-main-29:/mipmap-hdpi/ic_launcher_foreground.png"
+    }
+]

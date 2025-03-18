@@ -1,0 +1,60 @@
+1. US Dollar (USD)
+2. Euro (EUR)
+3. Japanese Yen (JPY)
+4. British Pound Sterling (GBP)
+5. Chinese Yuan (CNY)
+6. Swiss Franc (CHF)
+7. Canadian Dollar (CAD)
+8. Australian Dollar (AUD)
+9. Singapore Dollar (SGD)
+10. Hong Kong Dollar (HKD)
+11. Norwegian Krone (NOK)
+12. Swedish Krona (SEK)
+13. Indian Rupee (INR)
+14. Kuwaiti Dinar (KWD)
+15. Bahraini Dinar (BHD)
+16. Omani Rial (OMR)
+17. Qatari Riyal (QAR)
+18. United Arab Emirates Dirham (AED)
+19. Saudi Riyal (SAR)
+20. Malaysian Ringgit (MYR)
+
+
+US Dollar (USD):
+1 USD = 277.75 PKR.
+Euro (EUR):
+1 EUR = 300.56 PKR.
+British Pound (GBP):
+1 GBP = 350.95 PKR.
+Indian Rupee (INR):
+1 INR = 3.34 PKR.
+Australian Dollar (AUD):
+1 AUD = 181.22 PKR.
+Canadian Dollar (CAD):
+1 CAD = 205.22 PKR.
+Singapore Dollar (SGD):
+1 SGD = 205.95 PKR.
+Swiss Franc (CHF):
+1 CHF = 308.41 PKR.
+Malaysian Ringgit (MYR):
+1 MYR = 58.82 PKR.
+Japanese Yen (JPY):
+1 JPY = 1.84 PKR.
+Kuwaiti Dinar (KWD):
+1 KWD = 277.75 PKR.
+Bahraini Dinar (BHD):
+1 BHD = 277.75 PKR.
+Omani Rial (OMR):
+1 OMR = 719.59 PKR.
+Chinese Yuan (CNY):
+1 CNY = 0.5264 PKR.
+Hong Kong Dollar (HKD):
+1 HKD = 28.35 PKR.
+Norwegian Krone (NOK):
+1 NOK = 1.525 PKR.
+Qatari Riyal (QAR):
+1 QAR = 28.35 PKR.
+United Arab Emirates Dirham (AED):
+1 AED = 28.35 PKR.
+Saudi Riyal (SAR):
+1 SAR = 27.78 PKR.
